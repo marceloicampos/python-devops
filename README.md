@@ -1,2 +1,3 @@
 # python-devops
-Python3 para Devops
+
+Python3 para Devops no WSL
